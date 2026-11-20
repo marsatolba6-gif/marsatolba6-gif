@@ -2,7 +2,7 @@
 
 AI Automation Specialist helping agencies and service businesses automate operations and lead follow-up with n8n, GoHighLevel, and AI workflows.
 
-Based in the Philippines. Independent / Freelance.
+Independent / Freelance · Philippines
 
 ## Background
 
