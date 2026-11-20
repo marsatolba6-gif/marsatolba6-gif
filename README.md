@@ -8,7 +8,7 @@ AI Automation Specialist helping agencies and service businesses automate operat
 - **Location:** Philippines
 
 ## What I work with
-n8n · GoHighLevel · AI workflows · APIs · Webhooks · Retell AI · Groq · Google Sheets
+n8n · GoHighLevel · AI workflows · OpenAI · Groq · Retell AI · REST APIs · Webhooks · OAuth · Gmail · Google Sheets · Google Calendar · Google Apps Script · Slack · Trello · Supabase (via n8n) · AppSheet · Meta Ads Manager · JavaScript (basic, mainly within n8n)
 
 ## What I help with
 1. Lead capture, qualification, routing, and follow-up
