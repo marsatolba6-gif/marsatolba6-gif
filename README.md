@@ -22,7 +22,7 @@ I began in people-focused operations and customer success, where I learned to se
 
 - AI Automation Specialist (Freelance), March 2025 to present
 - AI Automation Developer (Independent Projects), September 2024 to March 2025
-- Operations & Customer Success, August 2021 to August 2024
+- Operations and Customer Success, August 2021 to August 2024
 
 ## Projects
 - [RoofFlow Voice AI](https://github.com/marsatolba6-gif/roofflow-ai-voice-lead-automation): inbound AI voice receptionist and lead qualification automation
