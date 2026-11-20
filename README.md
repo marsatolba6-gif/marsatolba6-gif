@@ -1,31 +1,31 @@
-# Mars Atolba
+# Hi, I'm Mars Atolba 👋
 
 AI Automation Specialist helping agencies and service businesses automate operations and lead follow-up with n8n, GoHighLevel, and AI workflows.
 
-Independent / Freelance · Philippines
+- **Featured project:** [RoofFlow Voice AI](https://github.com/marsatolba6-gif/roofflow-ai-voice-lead-automation), an inbound AI voice receptionist and lead qualification automation for roofing businesses (demo built with sample data)
+- **Portfolio:** [automateiv.vercel.app](https://automateiv.vercel.app)
+- **LinkedIn:** [Mars Atolba](https://www.linkedin.com/in/automatewithmars)
+- **Location:** Philippines
+
+## What I work with
+n8n · GoHighLevel · AI workflows · APIs · Webhooks · Retell AI · Groq · Google Sheets
+
+## What I help with
+1. Lead capture, qualification, routing, and follow-up
+2. GoHighLevel pipelines, calendars, forms, opportunities, and email/SMS workflows
+3. n8n automations connecting CRMs, inboxes, spreadsheets, and other business tools
+4. AI-powered email, customer support, and content workflows
+5. API integrations, webhooks, troubleshooting, and automation cleanup
 
 ## Background
-
 I began in people-focused operations and customer success, where I learned to see the hidden handoffs, delays, and repetitive work shaping every customer and team experience.
 
-## Experience
+- AI Automation Specialist (Freelance), March 2025 to present
+- AI Automation Developer (Independent Projects), September 2024 to March 2025
+- Operations & Customer Success, August 2021 to August 2024
 
-- AI Automation Specialist — Independent / Freelance | March 2025 to Present
-- AI Automation Developer — Independent Projects | September 2024 to March 2025
-- Operations and Customer Success | August 2021 to August 2024
+## Projects
+- [RoofFlow Voice AI](https://github.com/marsatolba6-gif/roofflow-ai-voice-lead-automation): inbound AI voice receptionist and lead qualification automation
+- [Portfolio](https://github.com/marsatolba6-gif/marsatolba-portfolio): the code behind automateiv.vercel.app
 
-## Approach
-
-Before automating anything, I ask where the team is losing time, where leads or tasks are falling through, and which steps should be automated and which simply need a better process. I build systems that are clear, practical, and maintainable.
-
-## Featured Project
-
-**RoofFlow** — inbound AI voice receptionist and lead qualification automation for roofing businesses.
-
-[View RoofFlow](https://github.com/marsatolba6-gif/roofflow-ai-voice-lead-automation)
-
-## Connect
-
-- [Portfolio](https://automateiv.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/automatewithmars/)
-- Email: marsatolba6@gmail.com
+Elevate. Automate. Excel.
